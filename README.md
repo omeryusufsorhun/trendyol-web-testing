@@ -11,6 +11,10 @@ https://github.com/omeryusufsorhun/trendyol-web-testing/assets/55853041/0959c10c
 
 
 ### Resources
+Cucumber
+
+Junit , NG
+
 Selenium Java Maven Repository
 
 Selenium 
